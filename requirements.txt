@@ -4,5 +4,5 @@ pandas
 matplotlib
 seaborn
 scikit-learn
-nltk and corresponding downloads
+nltk
 xgboost
