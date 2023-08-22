@@ -52,6 +52,6 @@ Provide instructions on how to run the project and any relevant code snippets.
 2. Follow the step-by-step instructions to execute each code cell.
 3. Review the EDA plots, model training process, and evaluation results.
 
-We welcome your feedback, suggestions, and questions! Whether you have ideas for improvements, questions about the project.
+We welcome your feedback, suggestions, and questions! Whether you have ideas for improvements or questions about the project.
 
-[![Made with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+Made with Love 💌
